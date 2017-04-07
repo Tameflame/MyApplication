@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name="stringHelloWorld">"Hello World!"</string>
+    <string name="start_button">"Start"</string>
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="azam_s_app">Azam\'s App</string>
+    <string name="welcome_splash">welcome splash</string>
+    <string name="login">Login</string>
+</resources>
